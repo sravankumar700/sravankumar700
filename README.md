@@ -1,66 +1,55 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="AI Command Center hero" width="100%" />
+<img src="assets/hero.svg" alt="Premium hero banner" width="100%" />
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sravankumar700&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/sravankumar700?style=for-the-badge" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/sravankumar700?style=for-the-badge" alt="GitHub stars" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Intelligent+Products;Python+%7C+FastAPI+%7C+Machine+Learning;Designing+Reliable+AI+Systems;Always+Learning.+Always+Building." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=860&lines=Python+Developer;Backend+Engineer;Machine+Learning+Engineer;Building+Real-World+AI+Products" alt="Typing animation" />
 </p>
 
 </div>
 
 <img src="assets/section-divider.svg" alt="Divider" width="100%" />
 
-## 🛰 AI Mission Control
+## 🛰 Mission Control
+
+<div align="center">
+  <img src="assets/profile-frame.svg" alt="Profile frame" width="140" />
+</div>
 
 ```text
-SYSTEM STATUS        : ONLINE
-MISSION              : Build Scalable AI Products
-ROLE                 : Artificial Intelligence Engineer
-PRIMARY STACK        : Python • FastAPI • Flask • ML • Deep Learning
-DATABASE             : MongoDB • SQL
-TOOLS                : Git • GitHub • Linux
-CURRENT FOCUS        : Backend Systems • Intelligent Automation • Research
+SYSTEM STATUS       : ONLINE
+CURRENT MISSION     : Building intelligent software that solves real-world problems
+CURRENT FOCUS       : Backend Engineering • Machine Learning • FastAPI
+PRIMARY STACK       : Python • FastAPI • Flask • MongoDB • PostgreSQL
+TOOLS               : Git • GitHub • Linux • Docker
+LOCATION            : India
 ```
 
 ## 👨‍💻 About Me
 
 ```yaml
 Name: Sravan Kumar
-Role: AI Engineer | Python Developer | Backend Engineer
-Focus: Machine Learning, Deep Learning, FastAPI, Data Systems
+Title: Artificial Intelligence Engineer
 Education: B.Tech Artificial Intelligence & Data Science
+Focus: Python, Backend Systems, Machine Learning, Deep Learning
 Location: India
 ```
 
 ## ⚙️ Professional Tech Stack
 
 <p align="center">
-  <img src="assets/skills.svg" alt="Skills dashboard" width="100%" />
+  <img src="assets/tech-icons.svg" alt="Technology icons" width="100%" />
 </p>
 
-### Programming
-Python • Java • SQL • Bash
-
-### Backend
-FastAPI • Flask • REST APIs • Microservices
-
-### AI
-Machine Learning • Deep Learning • NLP • Data Science
-
-### Database
-MongoDB • PostgreSQL • MySQL
-
-### Dev Tools
-Git • GitHub • VS Code • Linux
-
-### Cloud
-Docker • Deployment • CI/CD • Cloud-ready Architecture
+<p align="center">
+  <img src="assets/skills.svg" alt="Skills dashboard" width="100%" />
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -70,27 +59,39 @@ Docker • Deployment • CI/CD • Cloud-ready Architecture
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=sravankumar700&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=sravankumar700&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sravankumar700&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="92%" />
+  <img src="https://img.shields.io/badge/Repos-10%2B-blue?style=for-the-badge" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Followers-100%2B-0EA5E9?style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-22C55E?style=for-the-badge" alt="Focus" />
 </p>
 
 ## 🚀 Featured Projects
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:18px; justify-content:center;">
-  <img src="assets/project-zyra.svg" alt="Zyra project card" width="320" />
-  <img src="assets/project-coderefine.svg" alt="CodeRefine project card" width="320" />
-  <img src="assets/project-fraud.svg" alt="Fraud detection project card" width="320" />
-  <img src="assets/project-kafka.svg" alt="Kafka project card" width="320" />
+  <div style="width:48%; min-width:320px; border:1px solid #1F2937; border-radius:20px; padding:14px; background:#0F172A; text-align:left;">
+    <img src="assets/project-zyra.svg" alt="Zyra project card" width="100%" />
+    <div style="margin-top:10px;">
+      <p style="margin:0 0 6px; color:#F8FAFC; font-weight:700;">Zyra</p>
+      <p style="margin:0 0 8px; color:#94A3B8;">AI interview platform with intelligent evaluation workflows.</p>
+      <p style="margin:0 0 8px; color:#38BDF8;">Python • FastAPI • ML</p>
+      <p style="margin:0 0 10px; color:#22C55E;">Status: Active</p>
+      <a href="https://github.com/sravankumar700" style="color:#F8FAFC;">GitHub</a> • <a href="https://sravankumar700.github.io/" style="color:#F8FAFC;">Live</a>
+    </div>
+  </div>
+  <div style="width:48%; min-width:320px; border:1px solid #1F2937; border-radius:20px; padding:14px; background:#0F172A; text-align:left;">
+    <img src="assets/project-coderefine.svg" alt="CodeRefine project card" width="100%" />
+    <div style="margin-top:10px;">
+      <p style="margin:0 0 6px; color:#F8FAFC; font-weight:700;">CodeRefine</p>
+      <p style="margin:0 0 8px; color:#94A3B8;">AI-powered code analysis and improvement platform.</p>
+      <p style="margin:0 0 8px; color:#8B5CF6;">Flask • NLP • Backend</p>
+      <p style="margin:0 0 10px; color:#22C55E;">Status: In Progress</p>
+      <a href="https://github.com/sravankumar700" style="color:#F8FAFC;">GitHub</a> • <a href="https://sravankumar700.github.io/" style="color:#F8FAFC;">Live</a>
+    </div>
+  </div>
 </div>
-
-## 🧠 Skills Dashboard
-
-<p align="center">
-  <img src="skills.svg" alt="Skills dashboard visual" width="100%" />
-</p>
 
 ## 💻 Developer Terminal
 
@@ -106,26 +107,26 @@ Docker • Deployment • CI/CD • Cloud-ready Architecture
 
 ## 🏅 Achievements
 
-- Built AI-driven systems with practical product focus
-- Delivered end-to-end backend and ML workflows
-- Focused on real-world engineering and deployment readiness
-- Committed to consistent growth and strong fundamentals
+- Built production-minded AI systems with strong backend foundations
+- Delivered practical machine learning and data-driven solutions
+- Focused on clean architecture, reliability, and continuous learning
+- Built a strong foundation across Python, APIs, and modern tooling
 
 ## 🎓 Certifications
 
 - Python Programming
 - Machine Learning Foundations
-- Backend Development with FastAPI
-- Data Science and AI Practice
+- FastAPI & Backend Development
+- Data Science & AI Practice
 
 ## 🎯 Current Goals
 
 - Build impactful AI products
-- Strengthen backend architecture and APIs
-- Master scalable deployment workflows
+- Master scalable backend architecture
+- Strengthen Docker and deployment workflows
 - Contribute to open source and collaborative engineering
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://github.com/sravankumar700">
@@ -137,15 +138,15 @@ Docker • Deployment • CI/CD • Cloud-ready Architecture
   <a href="mailto:sravankumar700@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://sravankumar700.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  <a href="mailto:sravankumar700@gmail.com?subject=Resume%20Request">
+    <img src="https://img.shields.io/badge/Resume-Request-0EA5E9?style=for-the-badge" alt="Resume" />
   </a>
 </p>
 
-## 🐍 Contribution Pulse
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="assets/contribution-snake.svg" alt="Contribution pulse snake" width="92%" />
 </p>
 
-<img src="assets/footer.svg" alt="Footer" width="100%" />
+<img src="assets/footer.svg" alt="Premium footer" width="100%" />

@@ -4,6 +4,7 @@
 
 ### Artificial Intelligence Engineer • Python Developer • AI & Data Science
 
+<<<<<<< HEAD
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+AI+Powered+Applications;Python+%7C+FastAPI+%7C+Machine+Learning;Always+Learning.+Always+Building.;Welcome+to+my+GitHub+Profile+🚀" alt="Typing Animation"/>
 
 <p>
@@ -14,6 +15,10 @@
 
 <img src="https://img.shields.io/github/stars/sravankumar700?style=for-the-badge"/>
 
+=======
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&lines=Artificial+Intelligence+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+Real+World+AI+Projects;Always+Learning+Something+New" />
+>>>>>>> 4337da0 (first commit)
 </p>
 
 </div>
@@ -226,15 +231,13 @@ Keep Growing.
 
 ---
 
-# 🐍 Contribution Snake
 
-> Enable GitHub Actions and add the snake workflow later.
 
-```markdown
-![Snake animation](https://raw.githubusercontent.com/sravankumar700/sravankumar700/output/github-contribution-grid-snake.svg)
-```
+## 🐍 Contribution Snake
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sravankumar700/sravankumar700/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <div align="center">
 

@@ -4,7 +4,9 @@
 
 ### Artificial Intelligence Engineer • Python Developer • AI & Data Science
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+AI+Powered+Applications;Python+%7C+FastAPI+%7C+Machine+Learning;Always+Learning.+Always+Building.;Welcome+to+my+GitHub+Profile+🚀" alt="Typing Animation"/>
+<p align="center">
+  <img src="assets/banner.svg" alt="SRAVAN KUMAR banner" width="100%" />
+</p>
 
 <p>
 
@@ -16,7 +18,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&lines=Artificial+Intelligence+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+Real+World+AI+Projects;Always+Learning+Something+New" />
->>>>>>> 4337da0 (first commit)
 </p>
 
 </div>
@@ -61,33 +62,11 @@ Location  : India
 # 🚀 Tech Arsenal
 
 <p align="center">
+  <img src="assets/skills.svg" alt="Skills illustration" width="90%" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
+<p align="center">
+  Python • FastAPI • Machine Learning • MongoDB • SQL • Git • Linux • VS Code
 </p>
 
 ---
@@ -155,6 +134,10 @@ Location  : India
 ---
 
 # 💻 Developer Terminal
+
+<p align="center">
+  <img src="assets/terminal.svg" alt="Developer terminal illustration" width="80%" />
+</p>
 
 ```bash
 $ whoami

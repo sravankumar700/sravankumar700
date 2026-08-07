@@ -1,237 +1,178 @@
 <div align="center">
 
-# ⚡ SRAVAN KUMAR
-
-### Artificial Intelligence Engineer • Python Developer • AI & Data Science
-
-<p align="center">
-  <img src="assets/banner.svg" alt="SRAVAN KUMAR banner" width="100%" />
-</p>
+<img src="hero.svg" alt="AI Command Center hero" width="100%" />
 
 <p>
-
-<img src="https://komarev.com/ghpvc/?username=sravankumar700&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/sravankumar700?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/sravankumar700?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=sravankumar700&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sravankumar700?style=for-the-badge" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/sravankumar700?style=for-the-badge" alt="GitHub stars" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&lines=Artificial+Intelligence+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+Real+World+AI+Projects;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Intelligent+Products;Python+%7C+FastAPI+%7C+Machine+Learning;Designing+Reliable+AI+Systems;Always+Learning.+Always+Building." alt="Typing animation" />
 </p>
 
 </div>
 
----
+<img src="divider.svg" alt="Divider" width="100%" />
 
-# 🛰 AI COMMAND CENTER
+## 🛰 AI Mission Control
 
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-SYSTEM STATUS      : 🟢 ONLINE
-
-CURRENT MISSION    : Build Real AI Products
-
-ROLE               : AI Engineer
-
-LANGUAGE           : Python
-
-FOCUS              : Machine Learning • Backend • Data Science
-
-LAST UPDATE        : Shipping Code 🚀
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SYSTEM STATUS        : ONLINE
+MISSION              : Build Scalable AI Products
+ROLE                 : Artificial Intelligence Engineer
+PRIMARY STACK        : Python • FastAPI • Flask • ML • Deep Learning
+DATABASE             : MongoDB • SQL
+TOOLS                : Git • GitHub • Linux
+CURRENT FOCUS        : Backend Systems • Intelligent Automation • Research
 ```
 
----
-
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
-Name      : Sravan Kumar
-Education : B.Tech Artificial Intelligence & Data Science
-Role      : AI Developer
-Learning  : AI, Backend Development, FastAPI, Machine Learning
-Goal      : Build scalable AI applications
-Location  : India
+Name: Sravan Kumar
+Role: AI Engineer | Python Developer | Backend Engineer
+Focus: Machine Learning, Deep Learning, FastAPI, Data Systems
+Education: B.Tech Artificial Intelligence & Data Science
+Location: India
 ```
 
----
-
-# 🚀 Tech Arsenal
+## ⚙️ Professional Tech Stack
 
 <p align="center">
-  <img src="assets/skills.svg" alt="Skills illustration" width="90%" />
+  <img src="skills.svg" alt="Skills dashboard" width="100%" />
+</p>
+
+### Programming
+Python • Java • SQL • Bash
+
+### Backend
+FastAPI • Flask • REST APIs • Microservices
+
+### AI
+Machine Learning • Deep Learning • NLP • Data Science
+
+### Database
+MongoDB • PostgreSQL • MySQL
+
+### Dev Tools
+Git • GitHub • VS Code • Linux
+
+### Cloud
+Docker • Deployment • CI/CD • Cloud-ready Architecture
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sravankumar700&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravankumar700&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  Python • FastAPI • Machine Learning • MongoDB • SQL • Git • Linux • VS Code
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sravankumar700&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravankumar700&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=sravankumar700&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
 <p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=sravankumar700&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sravankumar700&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="92%" />
 </p>
 
----
-
-# ⚡ Mission Dashboard
-
-| Status          | Progress                 |
-| --------------- | ------------------------ |
-| 🐍 Python       | ████████████████████ 95% |
-| 🤖 AI & ML      | ████████████████ 80%     |
-| ⚙ Backend       | █████████████████ 85%    |
-| 📊 Data Science | ███████████████ 78%      |
-| ☁ Cloud         | ███████████ 60%          |
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 Zyra
-
-> AI Interview Platform with Resume Analysis, MCQ Tests and AI Evaluation.
-
----
-
-## 💻 CodeRefine
-
-> AI Powered Code Analysis & Improvement Platform.
-
----
-
-## 💳 Credit Card Fraud Detection
-
-> Machine Learning based fraud detection system.
-
----
-
-## 🌐 Portfolio Website
-
-> Personal developer portfolio showcasing projects and skills.
-
----
-
-## 📡 Apache Kafka Experiments
-
-> Event Streaming, Producers, Consumers and Real-Time Processing.
-
----
-
-# 💻 Developer Terminal
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="Developer terminal illustration" width="80%" />
+  <img src="project-card.svg" alt="Featured project card" width="100%" />
 </p>
 
-```bash
-$ whoami
+### Zyra
+- AI Interview Platform with resume analysis, MCQ tests, and AI evaluation.
+- Stack: Python, FastAPI, ML, MongoDB
+- Status: Active
+- [GitHub](https://github.com/sravankumar700) • [Live Demo](#)
 
-Sravan Kumar
+### CodeRefine
+- AI-powered code analysis and improvement platform.
+- Stack: Python, Flask, NLP, Backend APIs
+- Status: In Development
+- [GitHub](https://github.com/sravankumar700) • [Live Demo](#)
 
-$ role
+### Credit Card Fraud Detection
+- Machine learning system for fraud detection and anomaly analysis.
+- Stack: Python, Scikit-learn, Data Science
+- Status: Research/Prototype
+- [GitHub](https://github.com/sravankumar700) • [Live Demo](#)
 
-Artificial Intelligence Engineer
+### Apache Kafka Experiments
+- Event streaming, real-time producers, consumers, and processing experiments.
+- Stack: Python, Kafka, Streaming
+- Status: Experimental
+- [GitHub](https://github.com/sravankumar700) • [Live Demo](#)
 
-$ skills
+### Portfolio Website
+- Personal developer portfolio with a refined product-style presentation.
+- Stack: HTML, CSS, SVG, GitHub Pages
+- Status: Live
+- [GitHub](https://github.com/sravankumar700) • [Live Demo](#)
 
-Python
-Machine Learning
-FastAPI
-Git
-MongoDB
-Data Science
-
-$ current_status
-
-Building AI Products...
-
-$ motivation
-
-Keep Learning.
-Keep Building.
-Keep Growing.
-```
-
----
-
-# 🎯 2026 Goals
-
-* ✅ Build impactful AI projects
-* ✅ Contribute consistently on GitHub
-* ✅ Master FastAPI
-* ✅ Improve DSA
-* ✅ Learn Cloud Deployment
-* ⏳ Contribute to Open Source
-* ⏳ Secure an AI/Software Engineering role
-
----
-
-# 🏆 GitHub Trophy Cabinet
+## 🧠 Skills Dashboard
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sravankumar700&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img src="skills.svg" alt="Skills dashboard visual" width="100%" />
 </p>
 
----
-
-# 🌐 Connect With Me
+## 💻 Developer Terminal
 
 <p align="center">
-
-<a href="https://github.com/sravankumar700">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
+  <img src="terminal.svg" alt="Developer terminal" width="90%" />
 </p>
 
----
+## 🧭 Learning Journey
 
+<p align="center">
+  <img src="timeline.svg" alt="Learning timeline" width="100%" />
+</p>
 
+## 🏅 Achievements
+
+- Built AI-driven systems with practical product focus
+- Delivered end-to-end backend and ML workflows
+- Focused on real-world engineering and deployment readiness
+- Committed to consistent growth and strong fundamentals
+
+## 🎓 Certifications
+
+- Python Programming
+- Machine Learning Foundations
+- Backend Development with FastAPI
+- Data Science and AI Practice
+
+## 🎯 Current Goals
+
+- Build impactful AI products
+- Strengthen backend architecture and APIs
+- Master scalable deployment workflows
+- Contribute to open source and collaborative engineering
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/sravankumar700">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sravankumar700@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://sravankumar700.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+</p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sravankumar700/sravankumar700/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sravankumar700/sravankumar700/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
-<div align="center">
-
-## ⚡ "Code. Learn. Build. Repeat."
-
-```
-██████████████████████████████████████
-
-Thanks for visiting!
-
-See you in the next commit 🚀
-
-██████████████████████████████████████
-```
-
-</div>
+<img src="footer.svg" alt="Footer" width="100%" />

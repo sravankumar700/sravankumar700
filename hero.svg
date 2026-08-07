@@ -1,0 +1,62 @@
+<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="520" rx="28" fill="#030712"/>
+  <rect x="24" y="24" width="1352" height="472" rx="24" stroke="#38BDF8" stroke-opacity="0.28" stroke-width="2"/>
+  <rect x="54" y="54" width="1292" height="412" rx="20" fill="url(#bg)"/>
+  <g opacity="0.22">
+    <path d="M80 130H1320" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M80 190H1320" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M80 250H1320" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M80 310H1320" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M80 370H1320" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M130 90V430" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M250 90V430" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M370 90V430" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M490 90V430" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M610 90V430" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M730 90V430" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M850 90V430" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M970 90V430" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M1090 90V430" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M1210 90V430" stroke="#F8FAFC" stroke-width="1"/>
+  </g>
+  <circle cx="1110" cy="155" r="110" fill="#38BDF8" fill-opacity="0.16"/>
+  <circle cx="1110" cy="155" r="64" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="2"/>
+  <circle cx="1110" cy="155" r="24" fill="#38BDF8"/>
+  <path d="M1110 60C1160 60 1200 100 1200 150" stroke="#8B5CF6" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1110 250C1060 250 1020 210 1020 160" stroke="#22C55E" stroke-width="3" stroke-linecap="round"/>
+  <rect x="112" y="128" width="360" height="210" rx="20" fill="#030712" fill-opacity="0.7" stroke="#38BDF8" stroke-opacity="0.3"/>
+  <rect x="140" y="156" width="142" height="10" rx="5" fill="#38BDF8"/>
+  <rect x="140" y="182" width="240" height="8" rx="4" fill="#F8FAFC" fill-opacity="0.82"/>
+  <rect x="140" y="206" width="200" height="8" rx="4" fill="#94A3B8" fill-opacity="0.82"/>
+  <rect x="140" y="232" width="160" height="8" rx="4" fill="#94A3B8" fill-opacity="0.82"/>
+  <rect x="140" y="274" width="118" height="34" rx="17" fill="#38BDF8" fill-opacity="0.2" stroke="#38BDF8" stroke-opacity="0.55"/>
+  <rect x="270" y="274" width="124" height="34" rx="17" fill="#8B5CF6" fill-opacity="0.18" stroke="#8B5CF6" stroke-opacity="0.55"/>
+  <text x="130" y="360" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="700">AI COMMAND CENTER</text>
+  <text x="130" y="402" fill="#38BDF8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="48" font-weight="700">SRAVAN KUMAR</text>
+  <text x="130" y="438" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22">Artificial Intelligence Engineer • Python Developer • ML Enthusiast</text>
+  <rect x="1038" y="322" width="178" height="44" rx="22" fill="#030712" fill-opacity="0.85" stroke="#22C55E" stroke-opacity="0.45"/>
+  <circle cx="1060" cy="344" r="8" fill="#22C55E"/>
+  <text x="1080" y="350" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="600">ONLINE • SHIPPING</text>
+  <rect x="720" y="126" width="300" height="2" fill="#38BDF8" fill-opacity="0.75">
+    <animate attributeName="x" values="720;980;720" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="748" y="130" width="2" height="220" fill="#38BDF8" fill-opacity="0.65">
+    <animate attributeName="y" values="130;320;130" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="920" cy="244" r="3" fill="#F8FAFC">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="860" cy="200" r="2.5" fill="#8B5CF6">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="815" cy="265" r="2.2" fill="#22C55E">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="70" x2="1260" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#030712"/>
+    </linearGradient>
+  </defs>
+</svg>

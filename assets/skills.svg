@@ -1,0 +1,24 @@
+<svg width="1080" height="430" viewBox="0 0 1080 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="430" rx="26" fill="#030712"/>
+  <rect x="24" y="24" width="1032" height="382" rx="20" fill="#0F172A" stroke="#1F2937" stroke-width="2"/>
+  <text x="56" y="90" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="32" font-weight="700">Skills Dashboard</text>
+  <text x="56" y="118" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16">Operational maturity across product engineering and AI systems.</text>
+  <g transform="translate(56,148)">
+    <text x="0" y="0" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600">Python</text>
+    <rect x="0" y="14" width="760" height="12" rx="6" fill="#1F2937"/>
+    <rect x="0" y="14" width="722" height="12" rx="6" fill="#38BDF8"/>
+    <text x="792" y="24" fill="#38BDF8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">95%</text>
+  </g>
+  <g transform="translate(56,224)">
+    <text x="0" y="0" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600">Machine Learning</text>
+    <rect x="0" y="14" width="760" height="12" rx="6" fill="#1F2937"/>
+    <rect x="0" y="14" width="646" height="12" rx="6" fill="#8B5CF6"/>
+    <text x="792" y="24" fill="#8B5CF6" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">85%</text>
+  </g>
+  <g transform="translate(56,300)">
+    <text x="0" y="0" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600">Backend Systems</text>
+    <rect x="0" y="14" width="760" height="12" rx="6" fill="#1F2937"/>
+    <rect x="0" y="14" width="684" height="12" rx="6" fill="#22C55E"/>
+    <text x="792" y="24" fill="#22C55E" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">90%</text>
+  </g>
+</svg>

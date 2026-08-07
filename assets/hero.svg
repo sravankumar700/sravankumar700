@@ -1,0 +1,51 @@
+<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="520" rx="28" fill="#030712"/>
+  <rect x="22" y="22" width="1356" height="476" rx="24" stroke="#1F2937" stroke-width="2"/>
+  <rect x="50" y="50" width="1300" height="420" rx="24" fill="url(#bg)"/>
+  <g opacity="0.18" stroke="#F8FAFC" stroke-width="1">
+    <path d="M90 110H1310"/>
+    <path d="M90 180H1310"/>
+    <path d="M90 250H1310"/>
+    <path d="M90 320H1310"/>
+    <path d="M90 390H1310"/>
+    <path d="M180 80V440"/>
+    <path d="M320 80V440"/>
+    <path d="M460 80V440"/>
+    <path d="M600 80V440"/>
+    <path d="M740 80V440"/>
+    <path d="M880 80V440"/>
+    <path d="M1020 80V440"/>
+    <path d="M1160 80V440"/>
+  </g>
+  <circle cx="1110" cy="180" r="118" fill="#38BDF8" fill-opacity="0.12"/>
+  <circle cx="1110" cy="180" r="72" stroke="#38BDF8" stroke-opacity="0.55" stroke-width="2"/>
+  <circle cx="1110" cy="180" r="22" fill="#38BDF8"/>
+  <path d="M1110 90C1170 90 1220 140 1220 200" stroke="#8B5CF6" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1110 270C1050 270 1000 220 1000 160" stroke="#22C55E" stroke-width="3" stroke-linecap="round"/>
+  <rect x="120" y="130" width="348" height="220" rx="22" fill="#030712" fill-opacity="0.78" stroke="#38BDF8" stroke-opacity="0.28"/>
+  <rect x="146" y="162" width="150" height="12" rx="6" fill="#38BDF8"/>
+  <rect x="146" y="190" width="258" height="10" rx="5" fill="#F8FAFC" fill-opacity="0.84"/>
+  <rect x="146" y="214" width="214" height="10" rx="5" fill="#94A3B8" fill-opacity="0.84"/>
+  <rect x="146" y="238" width="176" height="10" rx="5" fill="#94A3B8" fill-opacity="0.84"/>
+  <rect x="146" y="270" width="132" height="34" rx="17" fill="#38BDF8" fill-opacity="0.16" stroke="#38BDF8" stroke-opacity="0.56"/>
+  <rect x="292" y="270" width="126" height="34" rx="17" fill="#8B5CF6" fill-opacity="0.16" stroke="#8B5CF6" stroke-opacity="0.56"/>
+  <text x="120" y="394" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="700">AI COMMAND CENTER</text>
+  <text x="120" y="434" fill="#38BDF8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="44" font-weight="700">SRAVAN KUMAR</text>
+  <text x="120" y="468" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20">Artificial Intelligence Engineer • Python Developer • Backend Builder</text>
+  <rect x="860" y="320" width="220" height="48" rx="24" fill="#030712" fill-opacity="0.82" stroke="#22C55E" stroke-opacity="0.45"/>
+  <circle cx="888" cy="344" r="8" fill="#22C55E"/>
+  <text x="910" y="350" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="600">ONLINE • SHIPPING</text>
+  <path d="M760 180C800 180 820 160 860 160" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M760 214C806 214 830 232 874 232" stroke="#8B5CF6" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="780" cy="180" r="3" fill="#F8FAFC"/>
+  <circle cx="834" cy="160" r="3" fill="#F8FAFC"/>
+  <circle cx="788" cy="214" r="3" fill="#F8FAFC"/>
+  <circle cx="854" cy="232" r="3" fill="#F8FAFC"/>
+  <defs>
+    <linearGradient id="bg" x1="90" y1="70" x2="1290" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#030712"/>
+    </linearGradient>
+  </defs>
+</svg>

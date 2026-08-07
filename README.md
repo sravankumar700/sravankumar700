@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.svg" alt="AI Command Center hero" width="100%" />
+<img src="assets/hero.svg" alt="AI Command Center hero" width="100%" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=sravankumar700&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="divider.svg" alt="Divider" width="100%" />
+<img src="assets/section-divider.svg" alt="Divider" width="100%" />
 
 ## 🛰 AI Mission Control
 
@@ -41,7 +41,7 @@ Location: India
 ## ⚙️ Professional Tech Stack
 
 <p align="center">
-  <img src="skills.svg" alt="Skills dashboard" width="100%" />
+  <img src="assets/skills.svg" alt="Skills dashboard" width="100%" />
 </p>
 
 ### Programming
@@ -80,34 +80,10 @@ Docker • Deployment • CI/CD • Cloud-ready Architecture
 ## 🚀 Featured Projects
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:18px; justify-content:center;">
-  <div style="width:320px; border:1px solid #38BDF8; border-radius:18px; padding:18px; background:#0F172A; text-align:left;">
-    <h3 style="margin:0 0 8px; color:#F8FAFC;">Zyra</h3>
-    <p style="margin:0 0 10px; color:#94A3B8;">AI interview platform with resume analysis, MCQ tests, and AI evaluation.</p>
-    <p style="margin:0 0 8px; color:#38BDF8;">Stack: Python • FastAPI • ML</p>
-    <p style="margin:0 0 12px; color:#22C55E;">Status: Active</p>
-    <a href="https://github.com/sravankumar700" style="color:#F8FAFC;">GitHub</a> • <a href="#" style="color:#F8FAFC;">Demo</a>
-  </div>
-  <div style="width:320px; border:1px solid #8B5CF6; border-radius:18px; padding:18px; background:#0F172A; text-align:left;">
-    <h3 style="margin:0 0 8px; color:#F8FAFC;">CodeRefine</h3>
-    <p style="margin:0 0 10px; color:#94A3B8;">AI-powered code analysis and improvement platform.</p>
-    <p style="margin:0 0 8px; color:#38BDF8;">Stack: Python • Flask • NLP</p>
-    <p style="margin:0 0 12px; color:#22C55E;">Status: In Development</p>
-    <a href="https://github.com/sravankumar700" style="color:#F8FAFC;">GitHub</a> • <a href="#" style="color:#F8FAFC;">Demo</a>
-  </div>
-  <div style="width:320px; border:1px solid #22C55E; border-radius:18px; padding:18px; background:#0F172A; text-align:left;">
-    <h3 style="margin:0 0 8px; color:#F8FAFC;">Credit Card Fraud Detection</h3>
-    <p style="margin:0 0 10px; color:#94A3B8;">Machine learning system for fraud detection and anomaly analysis.</p>
-    <p style="margin:0 0 8px; color:#38BDF8;">Stack: Python • Scikit-learn</p>
-    <p style="margin:0 0 12px; color:#22C55E;">Status: Research/Prototype</p>
-    <a href="https://github.com/sravankumar700" style="color:#F8FAFC;">GitHub</a> • <a href="#" style="color:#F8FAFC;">Demo</a>
-  </div>
-  <div style="width:320px; border:1px solid #38BDF8; border-radius:18px; padding:18px; background:#0F172A; text-align:left;">
-    <h3 style="margin:0 0 8px; color:#F8FAFC;">Apache Kafka Experiments</h3>
-    <p style="margin:0 0 10px; color:#94A3B8;">Event streaming, real-time producers, consumers, and processing experiments.</p>
-    <p style="margin:0 0 8px; color:#38BDF8;">Stack: Python • Kafka • Streaming</p>
-    <p style="margin:0 0 12px; color:#22C55E;">Status: Experimental</p>
-    <a href="https://github.com/sravankumar700" style="color:#F8FAFC;">GitHub</a> • <a href="#" style="color:#F8FAFC;">Demo</a>
-  </div>
+  <img src="assets/project-zyra.svg" alt="Zyra project card" width="320" />
+  <img src="assets/project-coderefine.svg" alt="CodeRefine project card" width="320" />
+  <img src="assets/project-fraud.svg" alt="Fraud detection project card" width="320" />
+  <img src="assets/project-kafka.svg" alt="Kafka project card" width="320" />
 </div>
 
 ## 🧠 Skills Dashboard
@@ -119,13 +95,13 @@ Docker • Deployment • CI/CD • Cloud-ready Architecture
 ## 💻 Developer Terminal
 
 <p align="center">
-  <img src="terminal.svg" alt="Developer terminal" width="90%" />
+  <img src="assets/terminal.svg" alt="Developer terminal" width="90%" />
 </p>
 
 ## 🧭 Learning Journey
 
 <p align="center">
-  <img src="timeline.svg" alt="Learning timeline" width="100%" />
+  <img src="assets/timeline.svg" alt="Learning timeline" width="100%" />
 </p>
 
 ## 🏅 Achievements
@@ -169,7 +145,7 @@ Docker • Deployment • CI/CD • Cloud-ready Architecture
 ## 🐍 Contribution Pulse
 
 <p align="center">
-  <img src="contribution-snake.svg" alt="Contribution pulse snake" width="92%" />
+  <img src="assets/contribution-snake.svg" alt="Contribution pulse snake" width="92%" />
 </p>
 
-<img src="footer.svg" alt="Footer" width="100%" />
+<img src="assets/footer.svg" alt="Footer" width="100%" />

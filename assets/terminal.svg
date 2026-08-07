@@ -1,0 +1,20 @@
+<svg width="940" height="500" viewBox="0 0 940 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="940" height="500" rx="24" fill="#030712"/>
+  <rect x="22" y="22" width="896" height="456" rx="20" fill="#0F172A" stroke="#1F2937" stroke-width="2"/>
+  <rect x="26" y="26" width="888" height="48" rx="16" fill="#111827"/>
+  <circle cx="54" cy="50" r="7" fill="#F87171"/>
+  <circle cx="80" cy="50" r="7" fill="#FBBF24"/>
+  <circle cx="106" cy="50" r="7" fill="#34D399"/>
+  <rect x="142" y="42" width="182" height="16" rx="8" fill="#1F2937"/>
+  <text x="78" y="138" fill="#38BDF8" font-family="Consolas, monospace" font-size="22" font-weight="600">&gt; whoami</text>
+  <text x="78" y="172" fill="#F8FAFC" font-family="Consolas, monospace" font-size="22">Sravan Kumar</text>
+  <text x="78" y="238" fill="#38BDF8" font-family="Consolas, monospace" font-size="22">&gt; role</text>
+  <text x="78" y="272" fill="#F8FAFC" font-family="Consolas, monospace" font-size="22">Artificial Intelligence Engineer</text>
+  <text x="78" y="338" fill="#38BDF8" font-family="Consolas, monospace" font-size="22">&gt; current_focus</text>
+  <text x="78" y="372" fill="#F8FAFC" font-family="Consolas, monospace" font-size="22">Building AI Products • Shipping Fast</text>
+  <text x="78" y="438" fill="#22C55E" font-family="Consolas, monospace" font-size="22">&gt; status</text>
+  <text x="78" y="472" fill="#F8FAFC" font-family="Consolas, monospace" font-size="22">ONLINE</text>
+  <rect x="286" y="440" width="12" height="20" fill="#F8FAFC">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>

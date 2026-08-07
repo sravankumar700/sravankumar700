@@ -1,0 +1,18 @@
+<svg width="1180" height="360" viewBox="0 0 1180 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1180" height="360" rx="24" fill="#030712"/>
+  <rect x="24" y="24" width="1132" height="312" rx="20" fill="#0F172A" stroke="#1F2937" stroke-width="2"/>
+  <line x1="180" y1="210" x2="1000" y2="210" stroke="#38BDF8" stroke-opacity="0.28" stroke-width="2"/>
+  <circle cx="240" cy="210" r="10" fill="#38BDF8"/>
+  <circle cx="520" cy="210" r="10" fill="#8B5CF6"/>
+  <circle cx="800" cy="210" r="10" fill="#22C55E"/>
+  <circle cx="1000" cy="210" r="10" fill="#F8FAFC"/>
+  <text x="180" y="154" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="700">2022</text>
+  <text x="460" y="154" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="700">2023</text>
+  <text x="740" y="154" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="700">2024</text>
+  <text x="960" y="154" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="700">2025</text>
+  <text x="180" y="246" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18">Python foundations</text>
+  <text x="460" y="246" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18">ML & backend systems</text>
+  <text x="740" y="246" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18">AI products & APIs</text>
+  <text x="960" y="246" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18">Scaling intelligent workflows</text>
+  <text x="64" y="96" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="32" font-weight="700">Learning Journey</text>
+</svg>

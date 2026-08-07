@@ -79,39 +79,36 @@ Docker • Deployment • CI/CD • Cloud-ready Architecture
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <img src="project-card.svg" alt="Featured project card" width="100%" />
-</p>
-
-### Zyra
-- AI Interview Platform with resume analysis, MCQ tests, and AI evaluation.
-- Stack: Python, FastAPI, ML, MongoDB
-- Status: Active
-- [GitHub](https://github.com/sravankumar700) • [Live Demo](#)
-
-### CodeRefine
-- AI-powered code analysis and improvement platform.
-- Stack: Python, Flask, NLP, Backend APIs
-- Status: In Development
-- [GitHub](https://github.com/sravankumar700) • [Live Demo](#)
-
-### Credit Card Fraud Detection
-- Machine learning system for fraud detection and anomaly analysis.
-- Stack: Python, Scikit-learn, Data Science
-- Status: Research/Prototype
-- [GitHub](https://github.com/sravankumar700) • [Live Demo](#)
-
-### Apache Kafka Experiments
-- Event streaming, real-time producers, consumers, and processing experiments.
-- Stack: Python, Kafka, Streaming
-- Status: Experimental
-- [GitHub](https://github.com/sravankumar700) • [Live Demo](#)
-
-### Portfolio Website
-- Personal developer portfolio with a refined product-style presentation.
-- Stack: HTML, CSS, SVG, GitHub Pages
-- Status: Live
-- [GitHub](https://github.com/sravankumar700) • [Live Demo](#)
+<div align="center" style="display:flex; flex-wrap:wrap; gap:18px; justify-content:center;">
+  <div style="width:320px; border:1px solid #38BDF8; border-radius:18px; padding:18px; background:#0F172A; text-align:left;">
+    <h3 style="margin:0 0 8px; color:#F8FAFC;">Zyra</h3>
+    <p style="margin:0 0 10px; color:#94A3B8;">AI interview platform with resume analysis, MCQ tests, and AI evaluation.</p>
+    <p style="margin:0 0 8px; color:#38BDF8;">Stack: Python • FastAPI • ML</p>
+    <p style="margin:0 0 12px; color:#22C55E;">Status: Active</p>
+    <a href="https://github.com/sravankumar700" style="color:#F8FAFC;">GitHub</a> • <a href="#" style="color:#F8FAFC;">Demo</a>
+  </div>
+  <div style="width:320px; border:1px solid #8B5CF6; border-radius:18px; padding:18px; background:#0F172A; text-align:left;">
+    <h3 style="margin:0 0 8px; color:#F8FAFC;">CodeRefine</h3>
+    <p style="margin:0 0 10px; color:#94A3B8;">AI-powered code analysis and improvement platform.</p>
+    <p style="margin:0 0 8px; color:#38BDF8;">Stack: Python • Flask • NLP</p>
+    <p style="margin:0 0 12px; color:#22C55E;">Status: In Development</p>
+    <a href="https://github.com/sravankumar700" style="color:#F8FAFC;">GitHub</a> • <a href="#" style="color:#F8FAFC;">Demo</a>
+  </div>
+  <div style="width:320px; border:1px solid #22C55E; border-radius:18px; padding:18px; background:#0F172A; text-align:left;">
+    <h3 style="margin:0 0 8px; color:#F8FAFC;">Credit Card Fraud Detection</h3>
+    <p style="margin:0 0 10px; color:#94A3B8;">Machine learning system for fraud detection and anomaly analysis.</p>
+    <p style="margin:0 0 8px; color:#38BDF8;">Stack: Python • Scikit-learn</p>
+    <p style="margin:0 0 12px; color:#22C55E;">Status: Research/Prototype</p>
+    <a href="https://github.com/sravankumar700" style="color:#F8FAFC;">GitHub</a> • <a href="#" style="color:#F8FAFC;">Demo</a>
+  </div>
+  <div style="width:320px; border:1px solid #38BDF8; border-radius:18px; padding:18px; background:#0F172A; text-align:left;">
+    <h3 style="margin:0 0 8px; color:#F8FAFC;">Apache Kafka Experiments</h3>
+    <p style="margin:0 0 10px; color:#94A3B8;">Event streaming, real-time producers, consumers, and processing experiments.</p>
+    <p style="margin:0 0 8px; color:#38BDF8;">Stack: Python • Kafka • Streaming</p>
+    <p style="margin:0 0 12px; color:#22C55E;">Status: Experimental</p>
+    <a href="https://github.com/sravankumar700" style="color:#F8FAFC;">GitHub</a> • <a href="#" style="color:#F8FAFC;">Demo</a>
+  </div>
+</div>
 
 ## 🧠 Skills Dashboard
 
@@ -169,10 +166,10 @@ Docker • Deployment • CI/CD • Cloud-ready Architecture
   </a>
 </p>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Pulse
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sravankumar700/sravankumar700/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img src="contribution-snake.svg" alt="Contribution pulse snake" width="92%" />
 </p>
 
 <img src="footer.svg" alt="Footer" width="100%" />

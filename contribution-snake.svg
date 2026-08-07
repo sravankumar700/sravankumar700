@@ -1,0 +1,42 @@
+<svg width="960" height="320" viewBox="0 0 960 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="320" rx="28" fill="#030712"/>
+  <rect x="24" y="24" width="912" height="272" rx="24" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.24"/>
+  <text x="54" y="74" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="700">Contribution Pulse</text>
+  <text x="54" y="104" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">A calm signal of progress — active days glow, quiet days remain open.</text>
+
+  <g transform="translate(54,126)">
+    <rect x="0" y="0" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+    <rect x="28" y="0" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+    <rect x="56" y="0" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+    <rect x="84" y="0" width="22" height="22" rx="6" fill="#38BDF8" fill-opacity="0.85"/>
+    <rect x="112" y="0" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+    <rect x="140" y="0" width="22" height="22" rx="6" fill="#8B5CF6" fill-opacity="0.85"/>
+    <rect x="168" y="0" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+    <rect x="196" y="0" width="22" height="22" rx="6" fill="#22C55E" fill-opacity="0.82"/>
+
+    <rect x="0" y="28" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+    <rect x="28" y="28" width="22" height="22" rx="6" fill="#38BDF8" fill-opacity="0.76"/>
+    <rect x="56" y="28" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+    <rect x="84" y="28" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+    <rect x="112" y="28" width="22" height="22" rx="6" fill="#8B5CF6" fill-opacity="0.72"/>
+    <rect x="140" y="28" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+    <rect x="168" y="28" width="22" height="22" rx="6" fill="#22C55E" fill-opacity="0.78"/>
+    <rect x="196" y="28" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+
+    <rect x="0" y="56" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+    <rect x="28" y="56" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+    <rect x="56" y="56" width="22" height="22" rx="6" fill="#38BDF8" fill-opacity="0.66"/>
+    <rect x="84" y="56" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+    <rect x="112" y="56" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+    <rect x="140" y="56" width="22" height="22" rx="6" fill="#8B5CF6" fill-opacity="0.72"/>
+    <rect x="168" y="56" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+    <rect x="196" y="56" width="22" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28"/>
+
+    <path d="M10 11 C48 11, 52 11, 92 11 S 152 11, 182 11" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="5 5" fill="none">
+      <animate attributeName="stroke-dashoffset" values="0;100" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="10" cy="11" r="3.6" fill="#F8FAFC">
+      <animate attributeName="cx" values="10;92;182;10" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

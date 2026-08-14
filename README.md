@@ -65,11 +65,3 @@ Location: India
     <img src="https://img.shields.io/badge/Resume-Request-0EA5E9?style=for-the-badge" alt="Resume" />
   </a>
 </p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="assets/contribution-snake.svg" alt="Contribution pulse snake" width="92%" />
-</p>
-
-<img src="assets/footer.svg" alt="Premium footer" width="100%" />

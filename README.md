@@ -65,17 +65,7 @@ Location: India
     <img src="https://img.shields.io/badge/Resume-Request-0EA5E9?style=for-the-badge" alt="Resume" />
   </a>
 </p>
-<p>Profile Visits: <span id="visitCount">0</span></p>
-
-<script>
-    let visits = localStorage.getItem("profileVisits");
-
-    if (visits === null) {
-        visits = 1;
-    } else {
-        visits = Number(visits) + 1;
-    }
-
+<img src="https://komarev.com/ghpvc/?username=sravankumar700&color=blue" alt="Profile views" />
     localStorage.setItem("profileVisits", visits);
 
     document.getElementById("visitCount").textContent = visits;

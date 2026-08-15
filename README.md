@@ -3,7 +3,7 @@
 ## 🛰 Mission Control
 
 <div align="center">
-  <img src="assets/profile-frame.svg" alt="Profile frame" width="140" />
+  <img src="assets/passportsize.jpg" alt="Profile frame" width="140" />
 </div>
 
 ```text

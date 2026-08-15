@@ -66,7 +66,4 @@ Location: India
   </a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=sravankumar700&color=blue" alt="Profile views" />
-    localStorage.setItem("profileVisits", visits);
 
-    document.getElementById("visitCount").textContent = visits;
-</script>

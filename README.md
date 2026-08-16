@@ -2,10 +2,6 @@
 
 ## 🛰 Mission Control
 
-<div align="center">
-  <img src="assets/PASSPORTSI ZE.jpg" alt="Profile frame" width="140" />
-</div>
-
 ```text
 SYSTEM STATUS       : ONLINE
 CURRENT MISSION     : Building intelligent software that solves real-world problems

@@ -1,86 +1,102 @@
-::: {align="center"}
-<img src="./light.svg" alt="Sravan Kumar Developer Profile" width="100%">{=html}
-:::
+<div align="center">
 
-👋 Hi, I'm Sravan Kumar
+<img src="./light.svg" width="100%" alt="Sravan Kumar Developer Profile">
 
-I'm a B.Tech Artificial Intelligence & Data Science student focused
-on building practical AI, software, and full-stack applications.
+</div>
 
-🚀 Current Focus
+<br>
 
-🤖 Artificial Intelligence & Machine Learning
+<h2 align="center">👋 Hi, I'm Sravan Kumar</h2>
 
-🐍 Python Development
+<p align="center">
+  <b>AI & Data Science Student • Python Developer • AI Enthusiast</b>
+</p>
 
-🌐 Full-Stack Web Development
+<p align="center">
+  Building intelligent applications, scalable software and practical AI solutions.
+</p>
 
-☁️ MLOps, Docker & AWS
+---
 
-🧠 Data Structures & Algorithms
+## 🚀 Current Focus
 
-🛠️ Tech Stack
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Python Development
+- 🌐 Full-Stack Development
+- ☁️ MLOps, Docker & AWS
+- 🧠 Data Structures & Algorithms
+- 📊 Data Science
 
-::: {align="center"}
+---
 
+## 🛠️ Technologies
 
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,fastapi,flask,mongodb,postgres,docker,aws,git,github,figma&perline=7">
 
+</p>
 
+---
 
+## 📌 Featured Projects
 
+### 🤖 Zyra
+AI-powered recruitment platform featuring:
 
+- Resume screening
+- ATS analysis
+- MCQ assessments
+- AI interviews
+- Automated candidate evaluation
 
+### 💻 CodeRefine
+Web-based code analysis platform designed to help developers identify and improve code issues.
 
+### 🏪 Salon ERP
+Business management system with:
 
+- POS
+- Billing
+- Loyalty management
+- Coupons
+- CRM
+- Multi-branch support
 
+---
 
+## 📊 GitHub
 
-:::
+<p align="center">
 
-📌 Featured Projects
+<img src="https://github-readme-stats.vercel.app/api?username=sravankumar700&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=06B6D4&text_color=475569">
 
-Project                             What it does
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sravankumar700&hide_border=true&background=ffffff&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB">
 
-Zyra                            AI-powered recruitment, resume
-screening and interview platform
+</p>
 
-CodeRefine                      Web-based code analysis and
-developer assistance platform
+---
 
-Salon ERP                       POS, billing, loyalty and CRM
-system for salon businesses
+## 🤝 Connect With Me
 
-📈 GitHub Activity
+<p align="center">
 
-::: {align="center"}
-<img src="https://github-readme-stats.vercel.app/api?username=sravankumar700&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=06B6D4&text_color=475569" height="165">{=html}
+<a href="https://github.com/sravankumar700">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sravankumar700&hide_border=true&background=FFFFFF&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB" height="165">{=html}
-:::
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-🤝 Connect With Me
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
 
-::: {align="center"}
-<a href="https://github.com/sravankumar700">{=html}
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white">{=html}
-</a>{=html}
+</p>
 
-<!-- Replace # with your actual LinkedIn URL -->
+<br>
 
-<a href="#">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">{=html}
-</a>{=html}
-
-<!-- Replace # with your actual portfolio URL -->
-
-<a href="#">{=html}
-<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white">{=html}
-</a>{=html}
-:::
-
-<br>{=html}
-
-::: {align="center"}
-BUILDING • LEARNING • SHIPPING
-:::
+<p align="center">
+  <b>BUILDING • LEARNING • SHIPPING</b>
+</p>

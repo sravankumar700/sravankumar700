@@ -4,8 +4,6 @@
 
 </div>
 
-<br>
-
 <h2 align="center">👋 Hi, I'm Sravan Kumar</h2>
 
 <p align="center">

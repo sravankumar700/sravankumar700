@@ -39,7 +39,6 @@
 
 ---
 
-## 📌 Featured Projects
 
 <hr>
 

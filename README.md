@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./light.svg" width="100%" alt="Sravan Kumar Developer Profile">
+<img src="./light.svg" width="100%" alt="">
 
 </div>
 

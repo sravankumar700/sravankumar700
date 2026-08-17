@@ -138,7 +138,7 @@ Complete business management system for salon operations, billing and customer m
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sravankumar700&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=06B6D4&text_color=475569">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sravankumar700&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=06B6D4&text_color=475569"> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sravankumar700&hide_border=true&background=ffffff&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB">
 

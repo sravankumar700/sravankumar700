@@ -151,7 +151,7 @@ Complete business management system for salon operations, billing and customer m
 <p align="center">
 
 <a href="https://github.com/sravankumar700">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"> -->
 </a>
 
 <a href="YOUR_LINKEDIN_URL">

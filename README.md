@@ -41,27 +41,99 @@
 
 ## 📌 Featured Projects
 
-### 🤖 Zyra
-AI-powered recruitment platform featuring:
+<hr>
 
-- Resume screening
-- ATS analysis
-- MCQ assessments
-- AI interviews
-- Automated candidate evaluation
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 💻 CodeRefine
-Web-based code analysis platform designed to help developers identify and improve code issues.
+<table width="100%">
+<tr>
 
-### 🏪 Salon ERP
-Business management system with:
+<td width="33%" valign="top">
 
-- POS
-- Billing
-- Loyalty management
-- Coupons
-- CRM
-- Multi-branch support
+<h3>🤖 Zyra</h3>
+
+<p>
+AI-powered recruitment platform designed to automate candidate screening and interviews.
+</p>
+
+<p>
+<code>Python</code>
+<code>Flask</code>
+<code>MongoDB</code>
+</p>
+
+<p>
+<code>ATS</code>
+<code>AI Interview</code>
+<code>MCQ</code>
+</p>
+
+<p>
+<a href="YOUR_ZYRA_REPO_URL">
+<b>View Project →</b>
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>💻 CodeRefine</h3>
+
+<p>
+Web-based code analysis platform that helps developers identify and improve code issues.
+</p>
+
+<p>
+<code>Python</code>
+<code>Flask</code>
+<code>MongoDB</code>
+</p>
+
+<p>
+<code>Code Analysis</code>
+<code>AI</code>
+<code>Developer Tool</code>
+</p>
+
+<p>
+<a href="YOUR_CODEREFINE_REPO_URL">
+<b>View Project →</b>
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🏪 Salon ERP</h3>
+
+<p>
+Complete business management system for salon operations, billing and customer management.
+</p>
+
+<p>
+<code>POS</code>
+<code>CRM</code>
+<code>Billing</code>
+</p>
+
+<p>
+<code>Loyalty</code>
+<code>Coupons</code>
+<code>Multi-Branch</code>
+</p>
+
+<p>
+<a href="YOUR_SALON_ERP_REPO_URL">
+<b>View Project →</b>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
